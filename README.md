@@ -1,8 +1,4 @@
-# Rocket-data-monitoring-interface-using-ESP32-and-LoRa-
-Hydro-propelled rocket with ESP32 for environmental/dynamic sensors (gyro, temp, humidity). ESP32-CAM for onboard view. Modular CustomTkinter UI with specialized sensor widgets for launch data.
-
-
-This project centers on designing and developing an experimental didactic rocket for teaching aerospace technology. The rocket
+# This project centers on designing and developing an experimental didactic rocket for teaching aerospace technology. The rocket
 is designed to carry a nominal payload of up to 300 grams to a maximum altitude of 100 meters, incorporating a custom-built flight computer
 capable of measuring atmospheric variables (temperature, altitude, and pressure) and dynamic variables (orientation in pitch, roll,
 and yaw axes). The system includes a real-time data transmission module to a ground base using LoRa communication with the
